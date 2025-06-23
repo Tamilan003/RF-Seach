@@ -1,7 +1,4 @@
-body {
-  font-family: sans-serif;
-  background-color: #f0f4ff;
-  margin: 0;
-  padding: 0;
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
