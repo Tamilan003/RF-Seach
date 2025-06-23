@@ -9,13 +9,13 @@
     "xlsx": "^0.18.5",
     "lucide-react": "^0.263.0"
   },
+  "engines": {
+    "node": "18.x"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-  },
-  "engines": {
-  "node": "16.x"
-}
+  }
 }
